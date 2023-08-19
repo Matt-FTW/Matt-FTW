@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/matt-ftw/matt-ftw/blob/output/github-contribution-grid-snake.svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Matt-FTW&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 <br>
 <a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Matt-FTW&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/></a>
