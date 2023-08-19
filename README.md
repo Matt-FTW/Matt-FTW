@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/matt-ftw/matt-ftw/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matt-ftw/matt-ftw/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Matt-FTW&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 <br>
