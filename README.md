@@ -29,9 +29,6 @@
 
 <table>
 <tr>
-<td>
-
-</td>
 <img src="https://wakatime.com/share/@Matt_FTW/fc3c4180-ba92-4984-b4c2-19c7c3947f9a.svg">
 </tr>
 </table>
